@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Hosie, an <a href="https://www.wwe.com">IT Professional
-
+https://imgur.com/a/511FMXp
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
