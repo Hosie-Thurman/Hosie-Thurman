@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
-<img src="https://imgur.com/a/QDvY9mg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Image](https://github.com/user-attachments/assets/c5dade8e-ea18-48c6-bfb5-1bc8e2e17b7f)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
