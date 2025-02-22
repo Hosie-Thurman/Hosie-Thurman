@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Creating and Configuring a Virtual Machine](https://github.com/Hosie-Thurman/AzureVM)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Hosie-Thurman/Active-Directory-1)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Hosie-Thurman/Active-directory-2)
+  - [Deploying Active Directory](https://github.com/Hosie-Thurman/Active-directory-2)
 
 <h2> Connect with me:</h2>
 
