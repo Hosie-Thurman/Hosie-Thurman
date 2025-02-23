@@ -16,5 +16,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Hosie-Thurman/Active-Directory-1)
   - [Deploying Active Directory](https://github.com/Hosie-Thurman/Active-directory-2)
 
-<h2> Connect with me:</h2>[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/hosie-thurman-54a982351/
+<h2> Connect with me:</h2>[ https://www.linkedin.com/in/hosie-thurman-54a982351/
 
