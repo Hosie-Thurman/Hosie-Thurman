@@ -1,7 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/c5dade8e-ea18-48c6-bfb5-1bc8e2e17b7f)
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Check out my Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Hosie-Thurman/osTicket-Prerequisites-and-Installation)
@@ -15,5 +15,5 @@
 <h2> Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/hosie-thurman-54a982351/
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/hosie-thurman-54a982351/
 
