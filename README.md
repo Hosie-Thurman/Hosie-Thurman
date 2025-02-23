@@ -5,7 +5,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Hosie-Thurman/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/Hosie-Thurman/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Hosie-Thurman/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Hosie-Thurman/osTicket-Creating-and-Working-Tickets)
 - <b>Microsoft Azure</b>
   - [Creating and Configuring a Virtual Machine](https://github.com/Hosie-Thurman/AzureVM)
